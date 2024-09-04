@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieDvdManagementSoftware", "MovieDvdManagementSoftware.csproj", "{0ECFB329-B70A-4B45-B3B5-F894F1B6C22A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ECFB329-B70A-4B45-B3B5-F894F1B6C22A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECFB329-B70A-4B45-B3B5-F894F1B6C22A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECFB329-B70A-4B45-B3B5-F894F1B6C22A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECFB329-B70A-4B45-B3B5-F894F1B6C22A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD909725-EF7D-4C45-8A13-6326DC08A8CD}
+	EndGlobalSection
+EndGlobal
